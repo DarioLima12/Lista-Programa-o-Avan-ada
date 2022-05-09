@@ -1,4 +1,5 @@
 RESULTADOS:
+
 p == &i -> 1
 *p - *q -> -2
 **&p -> 3
