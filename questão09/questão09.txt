@@ -1,0 +1,23 @@
+RESPOSTAS:
+
+Como x está guardado no endereço de memória 4092 e as variáveis char, int, float e double ocupam respectivamente 1 byte, 2 bytes, 4 bytes e 8 bytes, temos que: 
+
+Char
+x+1 = 4093
+x+2 = 4094
+x+3 = 4095
+
+int
+x+1 = 4094
+x+2 = 4096
+x+3 = 4098
+
+float
+x+1 = 4096
+x+2 = 4100
+x+3 = 4104
+
+double
+x+1 = 4100
+x+2 = 4108
+x+3 = 4116
