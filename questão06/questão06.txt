@@ -1,0 +1,5 @@
+RESPOSTA:
+
+*(pulo + 2);
+
+é a expressão que representa o terceiro elemento do vetor.
