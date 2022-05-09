@@ -1,0 +1,5 @@
+RESPOSTA:
+
+O primeiro programa apresenta o conteúdo guardado no endereço (vet+i)
+
+O segundo programa apresenta o endereço de (vet+i) 
