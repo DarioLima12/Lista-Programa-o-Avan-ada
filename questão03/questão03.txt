@@ -1,0 +1,5 @@
+EXPRESSÕES DE ATRIBUIÇÕES ILEGAIS:
+
+p = i;
+i = (*&)j;
+q = *p;
