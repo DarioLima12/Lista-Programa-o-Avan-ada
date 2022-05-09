@@ -1,0 +1,13 @@
+RESPOSTAS:
+
+p = mat + 1;
+Essa expressão é válida, pois p recebe o endereço da posição 2 do vetor mat[]
+
+p = mat++;
+Essa expressão é inválida, em virtude do ++
+
+p = ++mat;
+Essa expressão é inválida, em virtude do ++
+
+x = (*mat)++;
+Essa expressão é válida, pois x recebe o conteúdo guardado no endereço de mat[0]
