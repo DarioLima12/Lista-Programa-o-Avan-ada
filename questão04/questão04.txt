@@ -1,4 +1,4 @@
-RESPOSTAS:
+RESPOSTA:
 
 a) 20
 b) 29.0
