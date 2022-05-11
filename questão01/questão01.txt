@@ -1,4 +1,4 @@
-RESULTADOS:
+RESPOSTA:
 
 p == &i -> 1
 *p - *q -> -2
