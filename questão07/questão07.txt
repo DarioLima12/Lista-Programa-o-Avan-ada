@@ -1,4 +1,4 @@
-RESPOSTAS:
+RESPOSTA:
 
 p = mat + 1;
 Essa expressão é válida, pois p recebe o endereço da posição 2 do vetor mat[]
