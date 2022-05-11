@@ -1,4 +1,4 @@
-RESPOSTAS:
+RESPOSTA:
 
 i = 0
 vet[0] = 1.1
