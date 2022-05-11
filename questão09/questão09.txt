@@ -1,4 +1,4 @@
-RESPOSTAS:
+RESPOSTA:
 
 Como x está guardado no endereço de memória 4092 e as variáveis char, int, float e double ocupam respectivamente 1 byte, 2 bytes, 4 bytes e 8 bytes, temos que: 
 
