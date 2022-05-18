@@ -1,0 +1,12 @@
+O ponteiro é um "apontador", que ao invés de ser uma variavél que armazena um dado para seu tipo, ele armazena o endereço de memória ram que um dado do seu tipo está armazenado. Dessa forma, conseguindo passar funções para outas funcções.
+
+
+#include <stdio.h>
+
+int main(){
+
+int x = 1;
+  int *p = &x;
+  
+  return 0;
+}
